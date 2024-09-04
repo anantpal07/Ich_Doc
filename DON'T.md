@@ -172,4 +172,4 @@ Interestingly, we can use a "rainbow colormap" to fully utilize our computer's a
 dcm.show(cmap=plt.cm.gist_ncar, figsize=(6,6))
 ```
 
-Obviously this color mapping could do with plenty of cleanup (for instance the background should all be black, not a psychodelic pattern!), but the general idea is hopefully clear. I've asked a few radiologists what they think of this approach, and many think it would be a pretty interesting experiment to try out... If any radiologists reading this give it a go, be sure to let me know.
+Obviously this color mapping could do with plenty of cleanup (for instance the background should all be black, not a psychodelic pattern!), but the general idea is hopefully clear. I've asked a few radiologists what they think of this approach, and many think it would be a pretty interesting experiment to try out...
