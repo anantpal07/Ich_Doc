@@ -14,8 +14,6 @@ from fastai2.medical.imaging  import *
 ```bash
 np.set_printoptions(linewidth=120)
 ```
-ERROR: allennlp 0.9.0 requires flaky, which is not installed.
-ERROR: allennlp 0.9.0 requires responses>=0.7, which is not installed.
 Running command git clone -q https://github.com/fastai/fastai_dev /tmp/pip-req-build-2nj2fym8
 ```bash
 path = Path('../input/rsna-intracranial-hemorrhage-detection/')
